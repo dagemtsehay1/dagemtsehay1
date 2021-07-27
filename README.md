@@ -1,11 +1,8 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi there 👋 I'm Dagem Tsehay
 
-<br />
-<br />
+
 <img align="center" src ="https://user-images.githubusercontent.com/84669128/127141502-adc3cc02-7095-4de3-b210-7a2bcb497bd3.gif">
 
-<br />
-<br />
 ### My Socials :)
 
 ### Languages and Tools:
