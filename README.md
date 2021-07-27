@@ -48,8 +48,9 @@
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dagemtsehay1&theme=github)
 
 --------------------
-
-### My Socials :)
+<div align="center">
+ 
+### You Can Connect With Me On
 
 <a href="mailto:dagemtsehay4@gmail.com" target="_blank"><img width="30" src="https://github.com/dagemtsehay1/dagemtsehay1/blob/main/gmail.svg"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -60,7 +61,7 @@
 <a href="https://www.instagram.com/dagem.tsehay/" target="_blank"><img width="30" src="https://github.com/dagemtsehay1/dagemtsehay1/blob/main/instagram.svg"></a>
 
 
-
+</div>
 
 <!--
 **dagemtsehay1/dagemtsehay1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
