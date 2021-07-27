@@ -5,17 +5,6 @@
 </div>
 <br />
 
---------------------
-
-### My Socials :)
-
-<a href="mailto:dagemtsehay4@gmail.com" target="_blank"><img width="30" src="https://github.com/dagemtsehay1/dagemtsehay1/blob/main/gmail.svg"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://t.me/dagemtsehay" target="_blank"><img width="30" src="https://github.com/dagemtsehay1/dagemtsehay1/blob/main/telegram.svg"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/DagemTsehay" target="_blank"><img width="30" src="https://github.com/dagemtsehay1/dagemtsehay1/blob/main/twitter.svg"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/dagem.tsehay/" target="_blank"><img width="30" src="https://github.com/dagemtsehay1/dagemtsehay1/blob/main/instagram.svg"></a>
 
 --------------------
 
@@ -45,11 +34,22 @@
 <br />
 <br />
 
+## 📊 GitHub Stats:
 
 
+![Dagem Tsehay github stats](https://github-readme-stats.vercel.app/api?username=dagemtsehay1&theme=nord&show_icons=true&count_private=true)
 
+--------------------
 
+### My Socials :)
 
+<a href="mailto:dagemtsehay4@gmail.com" target="_blank"><img width="30" src="https://github.com/dagemtsehay1/dagemtsehay1/blob/main/gmail.svg"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://t.me/dagemtsehay" target="_blank"><img width="30" src="https://github.com/dagemtsehay1/dagemtsehay1/blob/main/telegram.svg"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/DagemTsehay" target="_blank"><img width="30" src="https://github.com/dagemtsehay1/dagemtsehay1/blob/main/twitter.svg"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/dagem.tsehay/" target="_blank"><img width="30" src="https://github.com/dagemtsehay1/dagemtsehay1/blob/main/instagram.svg"></a>
 
 
 
