@@ -37,7 +37,11 @@
 ## 📊 GitHub Stats:
 
 
-![Dagem Tsehay github stats](https://github-readme-stats.vercel.app/api?username=dagemtsehay1&theme=nord&show_icons=true&count_private=true)
+![Dagem Tsehay github stats](https://github-readme-stats.vercel.app/api?username=dagemtsehay1&theme=dark&show_icons=true&count_private=true)
+
+### 👨‍💻 Top Languages Used*:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dagemtsehay1&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dagemtsehay1&theme=dark)
 
 --------------------
 
