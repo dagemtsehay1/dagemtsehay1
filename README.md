@@ -53,6 +53,8 @@
 ### You Can Connect With Me On
 
 <a href="mailto:dagemtsehay4@gmail.com" target="_blank"><img width="30" src="https://github.com/dagemtsehay1/dagemtsehay1/blob/main/gmail.svg"></a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="tel:+251917841541" target="_blank"><img width="30" src="https://github.com/dagemtsehay1/dagemtsehay1/blob/main/phone.svg"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://t.me/dagemtsehay" target="_blank"><img width="30" src="https://github.com/dagemtsehay1/dagemtsehay1/blob/main/telegram.svg"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
