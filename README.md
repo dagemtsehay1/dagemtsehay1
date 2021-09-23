@@ -58,7 +58,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/DagemTsehay" target="_blank"><img width="30" src="https://github.com/dagemtsehay1/dagemtsehay1/blob/main/twitter.svg"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/dagem.tsehay/" target="_blank"><img width="30" src="https://github.com/dagemtsehay1/dagemtsehay1/blob/main/instagram.svg"></a>
+<a href="https://www.instagram.com/dagem_tsehay/" target="_blank"><img width="30" src="https://github.com/dagemtsehay1/dagemtsehay1/blob/main/instagram.svg"></a>
 
 <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=dagemtsehay1"></a>
 </div>
