@@ -1,4 +1,13 @@
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi there 👋 I'm Dagem Tsehay
+<!-- # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi there 👋 I'm Dagem Tsehay -->
+
+
+ - 👋 Hi, I’m Dagem Tsehay.
+ - 👀 I’m interested in app development and web development.
+ - 🌱 I’m currently learning software engineering at Holberton School (alx SE program).
+ - 💞️ I’m looking to collaborate on projects.
+ - 📫 How to reach me; dagemtsehay4@gmail.com
+
+-----------------------
 
  <div align="center">
 <img align="center" src ="https://user-images.githubusercontent.com/84669128/127141502-adc3cc02-7095-4de3-b210-7a2bcb497bd3.gif">
