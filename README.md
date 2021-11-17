@@ -2,7 +2,7 @@
 
 
  - 👋 Hi, I’m Dagem Tsehay.
- - 👀 I’m interested in app development and web development.
+ - 👀 I’m interested in web and mobile app development.
  - 🌱 I’m currently learning software engineering at Holberton School (alx SE program).
  - 💞️ I’m looking to collaborate on projects.
  - 📫 How to reach me; dagemtsehay4@gmail.com
