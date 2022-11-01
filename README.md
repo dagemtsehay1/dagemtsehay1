@@ -3,7 +3,7 @@
 
  - 👋 Hi, I’m Dagem Tsehay.
  - 👀 I’m interested in web and mobile app development.
- - 🌱 I’m currently learning software engineering at Holberton School (alx SE program).
+ - 🌱 I’m currently working as Intern software engineering at Orange Digital Center Ethiopia (ODC).
  - 💞️ I’m looking to collaborate on projects.
  - 📫 How to reach me; dagemtsehay4@gmail.com
 
