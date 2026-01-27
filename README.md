@@ -128,20 +128,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original
 <a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>
 
 
-<br /><br />
-
-
-
-## 📊 GitHub Stats:
-
-
-![Dagem Tsehay github stats](https://github-readme-stats.vercel.app/api?username=dagemtsehay1&theme=dark&show_icons=true&count_private=true)
-
-
-### 👨‍💻 Top Languages Used:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dagemtsehay1&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dagemtsehay1&theme=nord_dark)
-
 
 --------------------
 <div align="center">
